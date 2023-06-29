@@ -11,5 +11,5 @@ Correlation between Reddit comment and Stock market performance
 - S&P 500 up or down (% of up/down?)
 - NQ % up or down
 
-## project plan 
+## Project plan 
 https://docs.google.com/document/d/1EekSTJ_MwVNCwIQCMXQmOuZH_ydNjg157McKwhx1bI8/edit
