@@ -14,6 +14,10 @@ Correlation between Reddit comment and Stock market performance
 ## Project plan 
 https://docs.google.com/document/d/1EekSTJ_MwVNCwIQCMXQmOuZH_ydNjg157McKwhx1bI8/edit
 
+## Reddit_WhatAreYourMoveTmr
+ - WhatAreYourMoveTmr - 1Jul22-30Jun23
+ - record number: 242
+
 ## Market_data
  - df_NQ_1Jul22-30Jun23.csv
  - df_SP_1Jul22-30Jun23.csv
