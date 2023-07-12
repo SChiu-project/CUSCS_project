@@ -13,3 +13,9 @@ Correlation between Reddit comment and Stock market performance
 
 ## Project plan 
 https://docs.google.com/document/d/1EekSTJ_MwVNCwIQCMXQmOuZH_ydNjg157McKwhx1bI8/edit
+
+## Analysis proposal
+1. rank the top 1000 keywords among 1 year comment (fixed pool of keywords)
+   - build a data frame containing every day record, appreance account of the fixed pool of 1000 keywords
+2. score of each keywords (adjust weighting depends on positive and negative)
+3. 
