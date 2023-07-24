@@ -26,4 +26,11 @@ https://docs.google.com/document/d/1EekSTJ_MwVNCwIQCMXQmOuZH_ydNjg157McKwhx1bI8/
 1. rank the top 1000 keywords among 1 year comment (fixed pool of keywords)
    - build a data frame containing every day record, appreance account of the fixed pool of 1000 keywords
 2. score of each keywords (adjust weighting depends on positive and negative)
-3. 
+
+## Presentation
+1. Redit API extract - Simpo
+   - showcase the raw data we extract
+   - showcase financial data
+2. Keywords&time_series_binary - Simpo + Data clean / preprocessing - Jun
+3. sentiment analysis - Jun
+4. ML model - Jun
